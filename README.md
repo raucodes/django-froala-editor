@@ -10,7 +10,7 @@
 
   if not update in pypi use this
 
-  `pip install https://github.com/raucodes/django-froala-editor/archive/master.zip`
+  `pip install https://github.com/raucodes/django-froala-editor/archive/refs/heads/master.zip`
 
 OR
 
